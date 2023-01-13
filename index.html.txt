@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="style.css"/>
+<head>
+<title>HTML, CSS and JavaScript demo</title>
+</head>
+<body>
+<!-- Start your code here -->
+<div class="dropdown">
+            <button class="dropbtn">Выпадающее</button>
+                <div class="dropdown-content">
+                    <a href="#">Ссылка 1</a>
+                    <a href="#">Ссылка 2</a>
+                    <a href="#">Ссылка 3</a>
+                 </div>
+  </div>
+  <div class="dropdown">
+    <button class="dropbtn">Выпадающее 2</button>
+                <div class="dropdown-content">
+                    <a href="#">Ссылка 1</a>
+                    <a href="#">Ссылка 2</a>
+                    <a href="#">Ссылка 3</a>
+                 </div>
+      <div class="dropdown">
+        </div>   
+</div>
+<!-- End your code here -->
+</body>
+</html>
